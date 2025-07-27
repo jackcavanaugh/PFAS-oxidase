@@ -1,2 +1,2 @@
 # PFAS-oxidase
-Learning (work in progress)
+learning (on deck)
